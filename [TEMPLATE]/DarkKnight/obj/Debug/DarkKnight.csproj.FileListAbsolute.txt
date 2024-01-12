@@ -1,0 +1,8 @@
+D:\4th year\2nd term\Algo\algo 2023\assigment\Dark Knight\[TEMPLATE]\DarkKnight\bin\Debug\DarkKnight.exe.config
+D:\4th year\2nd term\Algo\algo 2023\assigment\Dark Knight\[TEMPLATE]\DarkKnight\bin\Debug\DarkKnight.exe
+D:\4th year\2nd term\Algo\algo 2023\assigment\Dark Knight\[TEMPLATE]\DarkKnight\bin\Debug\DarkKnight.pdb
+D:\4th year\2nd term\Algo\algo 2023\assigment\Dark Knight\[TEMPLATE]\DarkKnight\obj\Debug\DarkKnight.csproj.AssemblyReference.cache
+D:\4th year\2nd term\Algo\algo 2023\assigment\Dark Knight\[TEMPLATE]\DarkKnight\obj\Debug\DarkKnight.csproj.SuggestedBindingRedirects.cache
+D:\4th year\2nd term\Algo\algo 2023\assigment\Dark Knight\[TEMPLATE]\DarkKnight\obj\Debug\DarkKnight.csproj.CoreCompileInputs.cache
+D:\4th year\2nd term\Algo\algo 2023\assigment\Dark Knight\[TEMPLATE]\DarkKnight\obj\Debug\DarkKnight.exe
+D:\4th year\2nd term\Algo\algo 2023\assigment\Dark Knight\[TEMPLATE]\DarkKnight\obj\Debug\DarkKnight.pdb
